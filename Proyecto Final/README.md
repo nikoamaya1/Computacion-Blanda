@@ -15,7 +15,9 @@ Repositorio de la asignatura Computación Blanda 2021-2
 title="Presentación interactiva"> Presentación </a>
 - Video sustentacion del proyecto: <a href="https://drive.google.com/file/d/1BKPFJME4BpX4Nu3mzq1UNNvwlOqcARCo/view"
 title="Presentación interactiva"> Sustentacion </a>
-- Implementacion del proyecto
+- Implementacion del proyecto : <a href="https://colab.research.google.com/drive/1iQ1OLibfWyruM7EIllD_2cvSJASYGWY4?usp=sharing"
+title="Presentación interactiva"> Implementacion </a>
+
 
 
 Muchas Gracias!!!
