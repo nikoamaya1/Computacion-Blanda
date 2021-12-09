@@ -1,4 +1,4 @@
-# CompuBlanda
+# Computacion Blanda
 Repositorio de la asignatura Computación Blanda 2021-2
 <b>Grupo de trabajo: </b>
 * Nicolas Amaya Rico
