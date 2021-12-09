@@ -13,7 +13,8 @@ Repositorio de la asignatura Computación Blanda 2021-2
 
 - Presentación de Canva explicando el proyecto: <a href="https://www.canva.com/design/DAExcygEzbI/ZWp6msjSjwvHvn_LrSCyIQ/view?utm_content=DAExcygEzbI&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton"
 title="Presentación interactiva"> Presentación </a>
-- Video sustentacion del proyecto
+- Video sustentacion del proyecto: <a href="https://drive.google.com/file/d/1BKPFJME4BpX4Nu3mzq1UNNvwlOqcARCo/view"
+title="Presentación interactiva"> Sustentacion </a>
 - Implementacion del proyecto
 
 
